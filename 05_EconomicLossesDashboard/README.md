@@ -1,5 +1,7 @@
 # 📊 Economic Losses Dashboard — Excel
 
+![Status](https://img.shields.io/badge/Confidential_Data-Fictionalized-blue)
+
 ## 🧩 Overview
 This project presents an **interactive Excel dashboard** developed to analyze and visualize **economic losses caused by quality issues** in the company’s production process.  
 The tool allows users to explore data dynamically — filtering by product, date, and production stage — to identify which areas of the process generate the greatest financial impact.
