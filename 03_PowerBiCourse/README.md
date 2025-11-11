@@ -49,13 +49,17 @@ The workshop successfully:
 - Students gained their **first hands-on experience** with Power BI, building a functional dashboard from scratch.  
 - Many reported that they felt **more confident using data tools** and understood how BI can support real-world decision-making.  
 
+The dashboard can be downloaded clicking ![here](https://github.com/Bilobrans/Portfolio/blob/main/03_PowerBiCourse/PowerBiCourse.pbix).
+
+Click on [Database](https://github.com/Bilobrans/Portfolio/blob/main/03_PowerBiCourse/Data.xlsx) or [Calendar](https://github.com/Bilobrans/Portfolio/blob/main/03_PowerBiCourse/Calendar.xlsx) to download the xlsx file.
+
 ---
 
 ## 🖼️ Previews
-| Example Screens | Description |
-|------------------|-------------|
-| ![Dashboard Overview](images/dashboard_preview.png) | Example dashboard created during the mini-course |
-| ![Data Model](images/model_preview.png) | Simplified Power BI data model used for teaching |
+| Example Screens |
+|------------------|
+| ![Dashboard Overview](https://github.com/Bilobrans/Portfolio/blob/main/03_PowerBiCourse/Dashboard1.png) |
+| ![Dashboard Overview2](https://github.com/Bilobrans/Portfolio/blob/main/03_PowerBiCourse/Dashboard2.png) |
 
 ---
 
