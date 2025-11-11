@@ -47,8 +47,8 @@ The project significantly **reduced the time spent on manual reporting** and **i
 
 ### **Preview**
 *(Images contain fictitious data and anonymized visuals)*  
-![Dashboard Preview](./dashboard_preview.png)
-
+![Home Page](https://github.com/Bilobrans/Portfolio/blob/main/01_FinancialDashboard/Home_page.png)
+![Dashboard](https://github.com/Bilobrans/Portfolio/blob/main/01_FinancialDashboard/Dashboard.png)
 ---
 
-⭐ *This project demonstrates my ability to transform complex financial data into actionable insights using visualization and analytical tools.*
+⭐ *This project demonstrates my ability to transform financial data into actionable insights using visualization and analytical tools.*
