@@ -23,10 +23,7 @@ I'm currently expanding my knowledge in **algorithms and Python** to enhance my 
 
 | # | Project | Description | Tools |
 |---|----------|--------------|-------|
-| 1 | [Financial Dashboard](./01_financial_dashboard) | Automated Excel dashboard to analyze costs, revenue, and profitability. | Excel, Solver |
-| 2 | [Process Optimization Model](./02_process_optimization_solver) | Optimization model using Solver to minimize project costs and resource allocation. | Excel, Solver |
-| 3 | [Power BI Dashboard](./03_powerbi_dashboard) | Interactive dashboard displaying production KPIs and performance indicators. | Power BI |
-| 4 | [Excel Automation Tools](./04_excel_automation) | Automated spreadsheets using VBA to improve data input and reporting efficiency. | Excel, VBA |
+
 
 ---
 
