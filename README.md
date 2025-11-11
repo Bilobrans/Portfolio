@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Eduardo Bilobran Neves**, an **Industrial Engineering student** passionate about data analysis, process improvement, and automation.  
+Hi! I'm **Eduardo Bilobran**, an **Industrial Engineering student** passionate about data analysis, process improvement, and automation.  
 I enjoy solving real-world business challenges using **Excel, Power BI, Solver, Python**, and programming tools.  
 I'm currently expanding my knowledge in **algorithms and Python** to enhance my analytical and technical skills.
 
