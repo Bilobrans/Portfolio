@@ -60,8 +60,14 @@ Only the **visual structure and automation logic** are represented here for demo
 ## 🖼️ Previews
 | Example Screens | Description |
 |------------------|-------------|
-| ![Home Page](images/home_preview.png) | Instructions and project overview |
-| ![Pricing Sheet](images/pricing_preview.png) | Automated pricing interface with linked data |
+| ![Home Page](https://github.com/Bilobrans/Portfolio/blob/main/02_PricingSpreadSheet/Home_Page.png) | Home Page with instructions |
+| ![Collaborators](https://github.com/Bilobrans/Portfolio/blob/main/02_PricingSpreadSheet/Collaborators.png) | Page to add collaborators |
+| ![Fleet](https://github.com/Bilobrans/Portfolio/blob/main/02_PricingSpreadSheet/Fleet.png) | Page to add fleet informations |
+| ![FixedCosts](https://github.com/Bilobrans/Portfolio/blob/main/02_PricingSpreadSheet/FixedCosts.png) | Page to add fixed costs |
+| ![Pricing1](https://github.com/Bilobrans/Portfolio/blob/main/02_PricingSpreadSheet/Pricing1.png) | Pricing page overview |
+| ![Pricing2](https://github.com/Bilobrans/Portfolio/blob/main/02_PricingSpreadSheet/Pricing2.png) | Pricing page showing the link with collaborators page |
+| ![Pricing3](https://github.com/Bilobrans/Portfolio/blob/main/02_PricingSpreadSheet/Pricing3.png) | Pricing page showing the link with fleet page |
+| ![PricingExample](https://github.com/Bilobrans/Portfolio/blob/main/02_PricingSpreadSheet/PricingExample.png) | Pricing page showing an example of pricing |
 
 ---
 
