@@ -61,15 +61,19 @@ The minicourse generated excellent results for both the participants and the Jun
 - The use of **conditional formatting, filters, and charts** improved their ability to analyze and communicate results.  
 - Several participants reported that even though the course was introductory, they learned many things they didn't know.
 
-The spreadsheet used in the course can be downloaded here.
+The spreadsheet used in the course can be downloaded [here](https://github.com/Bilobrans/Portfolio/blob/main/04_ExcelCourse/ExcelCourse.xlsx).
 
 ---
 
 ## 🖼️ Previews
 | Example Screens | Description |
 |------------------|-------------|
-| ![Excel Overview](images/excel_interface.png) | Basic interface and formatting module |
-| ![Charts Example](images/excel_charts.png) | Chart creation and conditional formatting exercises |
+| ![HomePage](https://github.com/Bilobrans/Portfolio/blob/main/04_ExcelCourse/HomePage.png) | Homepage with orientations |
+| ![Interface](https://github.com/Bilobrans/Portfolio/blob/main/04_ExcelCourse/Interface.png) | Interface guide page |
+| ![Formatting](https://github.com/Bilobrans/Portfolio/blob/main/04_ExcelCourse/Formatting.png) | Formatting guide page |
+| ![Formulas](https://github.com/Bilobrans/Portfolio/blob/main/04_ExcelCourse/Formulas.png) | Formulas guide page |
+| ![Filters](https://github.com/Bilobrans/Portfolio/blob/main/04_ExcelCourse/Filters.png) | Filters guide page |
+| ![Conditional Formatting](https://github.com/Bilobrans/Portfolio/blob/main/04_ExcelCourse/ConditionalFormatting.png) | Conditional formatting guide page |
 
 ---
 
