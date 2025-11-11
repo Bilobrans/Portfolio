@@ -15,7 +15,7 @@ I'm currently expanding my knowledge in **algorithms and Python** to enhance my 
 ---
 ## 📫 Contact
 
-- **LinkedIn:** [linkedin.com/in/eduardo-bilobran-neves](https://linkedin.com/in/eduardo-bilobran-neves)  
+- **LinkedIn:** [linkedin.com/in/eduardo-bilobran](https://linkedin.com/in/eduardo-bilobran)  
 - **Email:** [eduardo.bilobran@gmail.com](mailto:eduardo.bilobran@gmail.com)
   
 ---
