@@ -1,5 +1,7 @@
 # 💰 Excel Pricing Automation Model
 
+![Status](https://img.shields.io/badge/Confidential_Data-Fictionalized-blue)
+
 ## 🧩 Overview
 This project presents a **pricing automation tool developed in Excel with VBA**, designed to help a service company define its prices more accurately and consistently.  
 The tool centralizes all financial and operational data — such as employee costs, vehicle expenses, and fixed costs — to calculate the service price automatically based on the selected resources and desired profit margin.
@@ -76,3 +78,5 @@ Only the **visual structure and automation logic** are represented here for demo
 - **VBA Automation (Macros)**  
 - **Data Linking & Consolidation**  
 - **Financial Modeling & Cost Structure Design**
+
+⭐ *This project demonstrates my ability to design automated spreadsheets models that integrate multiple data sources and simplify complex decisions.*
