@@ -1,5 +1,7 @@
 # 📊 Financial Dashboard (Power BI)
 
+![Status](https://img.shields.io/badge/Confidential_Data-Fictionalized-blue)
+
 ## 🧭 Methodology: STAR
 
 ### **Situation**
