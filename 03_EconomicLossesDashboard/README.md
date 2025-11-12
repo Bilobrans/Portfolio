@@ -80,12 +80,12 @@ The version shown here includes **fictional data** and has the **company’s log
 ## 🖼️ Previews
 | Example Screens | Description |
 |------------------|-------------|
-| ![Dashboard1](https://github.com/Bilobrans/Portfolio/blob/main/05_EconomicLossesDashboard/Dashboard1.png) | Main dashboard Example 1 |
-| ![Dashboard2](https://github.com/Bilobrans/Portfolio/blob/main/05_EconomicLossesDashboard/Dashboard2.png) | Main dashboard Example 2 |
-| ![Dashboard3](https://github.com/Bilobrans/Portfolio/blob/main/05_EconomicLossesDashboard/Dashboard3.png) | Main dashboard Example 3 |
-| ![Product1](https://github.com/Bilobrans/Portfolio/blob/main/05_EconomicLossesDashboard/Product1Cost.png) | Product 1 costs calculations |
-| ![Product2](https://github.com/Bilobrans/Portfolio/blob/main/05_EconomicLossesDashboard/Product2Cost.png) | Product 2 costs calculations |
-| ![Product3](https://github.com/Bilobrans/Portfolio/blob/main/05_EconomicLossesDashboard/Product3Cost.png) | Product 3 costs calculations |
+| ![Dashboard1](https://github.com/Bilobrans/Portfolio/blob/main/03_EconomicLossesDashboard/Dashboard1.png) | Main dashboard Example 1 |
+| ![Dashboard2](https://github.com/Bilobrans/Portfolio/blob/main/03_EconomicLossesDashboard/Dashboard2.png) | Main dashboard Example 2 |
+| ![Dashboard3](https://github.com/Bilobrans/Portfolio/blob/main/03_EconomicLossesDashboard/Dashboard3.png) | Main dashboard Example 3 |
+| ![Product1](https://github.com/Bilobrans/Portfolio/blob/main/03_EconomicLossesDashboard/Product1Cost.png) | Product 1 costs calculations |
+| ![Product2](https://github.com/Bilobrans/Portfolio/blob/main/03_EconomicLossesDashboard/Product2Cost.png) | Product 2 costs calculations |
+| ![Product3](https://github.com/Bilobrans/Portfolio/blob/main/03_EconomicLossesDashboard/Product3Cost.png) | Product 3 costs calculations |
 
 ---
 
