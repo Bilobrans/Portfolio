@@ -23,7 +23,6 @@ My responsibility was to:
 - **Develop a single, consolidated dashboard** to monitor losses due to quality issues;  
 - Enable **interactive analysis** by product, date, and process stage;  
 - Present **key indicators** in a clear and visual way to support decision-making;  
-- Maintain **confidentiality** by ensuring no sensitive company data was exposed.
 
 ---
 
